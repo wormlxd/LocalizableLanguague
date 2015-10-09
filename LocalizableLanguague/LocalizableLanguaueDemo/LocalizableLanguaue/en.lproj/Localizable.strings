@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  LocalizableLanguaue
+
+  Created by linxiaodong on 14-8-3.
+  Copyright (c) 2014年 linxiaodong. All rights reserved.
+*/
+"hello" = "Hello,world!";
+"cancel"= "Cancel";
+"start"="Start";
+
+"current_languaue"="English";
+"english"="English";
+"chinese"="SimplifiedChinese";
+"chinese_tradational"="TraditionalChinese";
